@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708977499994",
+    "project_id": "croatiaquest",
+    "storage_bucket": "croatiaquest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708977499994:android:fd1d4389a01f6abff05d63",
+        "android_client_info": {
+          "package_name": "hr.ferit.marija.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4x7QK65QSFalhvVIL9NLRLHXuo8Wcbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
